@@ -6,3 +6,5 @@ translator github -> https://github.com/rickiepark/handson-ml
 
 
 Basic Machine Learning Model (Scikit-Learn)
+
++ Keras Deep Learning Projects 
